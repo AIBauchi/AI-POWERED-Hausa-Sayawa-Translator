@@ -90,7 +90,7 @@ The AI-POWERED Hausa Sayawa Translator project aims to develop an advanced langu
 
 ## Roles
 
-- Project Manager: [Amina Shiga](@Sheega-ameenah).
+- Project Manager: [Amina Shiga](https://github.com/Sheega-ameenah).
 - Project Lead: [TBD].
 - Team: [TBD].
 - Quality Assurance Tester: [AI Bauchi admins].
